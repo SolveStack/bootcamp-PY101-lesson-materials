@@ -1,3 +1,5 @@
+# Setup
+
 Fork the repository from [Solvestack/bootcamp-PY101-lecture-app](https://github.com/SolveStack/bootcamp-PY101-lecture-app).
 
 Navigate to your new repository.
@@ -16,6 +18,9 @@ It will look kind of like this:
 git clone https://github.com/<yourusernamehere>/bootcamp-PY101-lecture-app
 ```
 
+If using Git Bash, it may prompt you to Sign In with your browser. You can follow the prompts to easily sign in.
+
+Otherwise, when asked for a password on the comand line/terminal, you can use your Personal Access Token. [Click here](https://github.com/settings/tokens) to make one in Github if you don't have one.
 
 Then, check out this starting point hash 05cf80aacf086c5595b26d53b400c44e4e450243:
 
@@ -23,6 +28,10 @@ Then, check out this starting point hash 05cf80aacf086c5595b26d53b400c44e4e45024
 git checkout 05cf80aacf086c5595b26d53b400c44e4e450243
 git switch -c starting-point
 ```
+
+Refer to the accompanying [terminal output](terminal_output.txt) for example output.
+
+# You're ready to start coding!
 
 Then proceed to add the code to create a Car class definition, and then in main.py, to import your Car model.
 
