@@ -1,0 +1,115 @@
+Last login: Thu Apr  6 13:10:21 on ttys002
+anatomboulian@MacBook-Pro ~ % cd git/bootcamp-PY101-lesson-materials/lesson3A_april6_2023
+anatomboulian@MacBook-Pro lesson3A_april6_2023 % python3 changing_lists.py
+Hello world!
+anatomboulian@MacBook-Pro lesson3A_april6_2023 % python3 changing_lists.py
+Hello world!
+anatomboulian@MacBook-Pro lesson3A_april6_2023 % python3 changing_lists.py
+Hello world!
+Before:
+['Authenticity', 'Achievement', 'Adventure', 'Authority', 'Autonomy', 'Balance', 'Beauty', 'Boldness', 'Compassion', 'Challenge', 'Citizenship', 'Community', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Popularity', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Spirituality', 'Stability', 'Success', 'Status', 'Trustworthiness', 'Wealth', 'Wisdom']
+After:
+['Authenticity', 'Spunk', 'Adventure', 'Authority', 'Autonomy', 'Balance', 'Beauty', 'Boldness', 'Compassion', 'Challenge', 'Citizenship', 'Community', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Popularity', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Spirituality', 'Stability', 'Success', 'Status', 'Trustworthiness', 'Wealth', 'Wisdom']
+anatomboulian@MacBook-Pro lesson3A_april6_2023 % python3 changing_lists.py
+Before:
+['Authenticity', 'Achievement', 'Adventure', 'Authority', 'Autonomy', 'Balance', 'Beauty', 'Boldness', 'Compassion', 'Challenge', 'Citizenship', 'Community', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Popularity', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Spirituality', 'Stability', 'Success', 'Status', 'Trustworthiness', 'Wealth', 'Wisdom']
+After:
+['Authenticity', 'Achievement', 'Perseverence', 'Patience', 'Autonomy', 'Balance', 'Beauty', 'Boldness', 'Compassion', 'Challenge', 'Citizenship', 'Community', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Popularity', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Spirituality', 'Stability', 'Success', 'Status', 'Trustworthiness', 'Wealth', 'Wisdom']
+anatomboulian@MacBook-Pro lesson3A_april6_2023 % python3 changing_lists.py
+Starting length: 56
+anatomboulian@MacBook-Pro lesson3A_april6_2023 % python3 changing_lists.py
+Starting length: 56
+['Authenticity', 'Achievement', 'Patience', 'Perseverence', 'Adventure', 'Authority', 'Autonomy', 'Balance', 'Beauty', 'Boldness', 'Compassion', 'Challenge', 'Citizenship', 'Community', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Popularity', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Spirituality', 'Stability', 'Success', 'Status', 'Trustworthiness', 'Wealth', 'Wisdom']
+Ending length: 58
+anatomboulian@MacBook-Pro lesson3A_april6_2023 % python3 changing_lists.py
+Starting length: 56
+['Authenticity', 'Achievement', 'Perseverence', 'Patience', 'Adventure', 'Authority', 'Autonomy', 'Balance', 'Beauty', 'Boldness', 'Compassion', 'Challenge', 'Citizenship', 'Community', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Popularity', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Spirituality', 'Stability', 'Success', 'Status', 'Trustworthiness', 'Wealth', 'Wisdom']
+Ending length: 58
+anatomboulian@MacBook-Pro lesson3A_april6_2023 % python3 changing_lists.py
+Starting length: 56
+['Authenticity', 'Achievement', 'Patience', 'Perseverence', 'Adventure', 'Authority', 'Autonomy', 'Balance', 'Beauty', 'Boldness', 'Compassion', 'Challenge', 'Citizenship', 'Community', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Popularity', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Spirituality', 'Stability', 'Success', 'Status', 'Trustworthiness', 'Wealth', 'Wisdom']
+Ending length: 58
+Starting length: 56
+['Authenticity', 'Achievement', 'Adventure', 'Authority', 'Autonomy', 'Balance', 'Beauty', 'Boldness', 'Compassion', 'Challenge', 'Citizenship', 'Community', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Popularity', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Spirituality', 'Stability', 'Success', 'Status', 'Trustworthiness', 'Perseverence', 'Patience', 'Wealth', 'Wisdom']
+Ending length: 58
+anatomboulian@MacBook-Pro lesson3A_april6_2023 % python3 changing_lists.py
+Starting length: 56
+['Authenticity', 'Achievement', 'Patience', 'Perseverence', 'Adventure', 'Authority', 'Autonomy', 'Balance', 'Beauty', 'Boldness', 'Compassion', 'Challenge', 'Citizenship', 'Community', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Popularity', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Spirituality', 'Stability', 'Success', 'Status', 'Trustworthiness', 'Wealth', 'Wisdom']
+Ending length: 58
+Starting length: 56
+['Authenticity', 'Achievement', 'Adventure', 'Authority', 'Autonomy', 'Balance', 'Beauty', 'Boldness', 'Compassion', 'Challenge', 'Citizenship', 'Community', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Popularity', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Spirituality', 'Stability', 'Success', 'Status', 'Trustworthiness', 'Perseverence', 'Patience', 'Wealth', 'Wisdom']
+Ending length: 58
+Starting length: 56
+['Authenticity', 'Achievement', 'Adventure', 'Authority', 'Autonomy', 'Balance', 'Beauty', 'Boldness', 'Compassion', 'Challenge', 'Citizenship', 'Community', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Popularity', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Spirituality', 'Stability', 'Success', 'Status', 'Trustworthiness', 'Wealth', 'Wisdom', 'Perseverence', 'Patience']
+Ending length: 58
+anatomboulian@MacBook-Pro lesson3A_april6_2023 % python3 changing_lists.py
+Starting length: 56
+['Authenticity', 'Achievement', 'Adventure', 'Authority', 'Autonomy', 'Balance', 'Beauty', 'Boldness', 'Compassion', 'Challenge', 'Citizenship', 'Community', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Popularity', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Spirituality', 'Stability', 'Success', 'Status', 'Trustworthiness', 'Wealth', 'Wisdom', 'Perseverence', 'Patience']
+Ending length: 58
+anatomboulian@MacBook-Pro lesson3A_april6_2023 % python3 changing_lists.py
+['Authenticity', 'Achievement', 'Adventure', 'Authority', 'Autonomy', 'Balance', 'Beauty', 'Boldness', 'Compassion', 'Challenge', 'Citizenship', 'Community', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Popularity', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Spirituality', 'Stability', 'Success', 'Status', 'Trustworthiness', 'Wealth', 'Perseverence', 'Patience', 'Wisdom']
+Ending length: 58
+['Authenticity', 'Achievement', 'Adventure', 'Authority', 'Autonomy', 'Balance', 'Beauty', 'Boldness', 'Compassion', 'Challenge', 'Citizenship', 'Community', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Popularity', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Spirituality', 'Stability', 'Success', 'Status', 'Trustworthiness', 'Wealth', 'Wisdom', 'Perseverence', 'Patience']
+Ending length: 58
+anatomboulian@MacBook-Pro lesson3A_april6_2023 % python3 changing_lists.py
+['a', 'b', 'c', 1, 2, 3]
+anatomboulian@MacBook-Pro lesson3A_april6_2023 % python3 changing_lists.py
+anatomboulian@MacBook-Pro lesson3A_april6_2023 % python3 changing_lists.py
+['a', 'b', 'c', 1, 2, 3]
+anatomboulian@MacBook-Pro lesson3A_april6_2023 % python3 changing_lists.py
+['Perseverence', 'Patience']
+anatomboulian@MacBook-Pro lesson3A_april6_2023 % python3 changing_lists.py
+['Debugging', 'Problem-solving']
+Look, it's a list <class 'list'>
+anatomboulian@MacBook-Pro lesson3A_april6_2023 % python3 changing_lists.py
+[10, 11, 12, 13, 14, 15]
+anatomboulian@MacBook-Pro lesson3A_april6_2023 % python3 changing_lists.py
+[10, 11, 12, 13, 14, 15]
+[20, 22, 24, 26, 28, 30]
+anatomboulian@MacBook-Pro lesson3A_april6_2023 % python3 changing_lists.py
+Hello world!
+Before:
+['Authenticity', 'Achievement', 'Adventure', 'Authority', 'Autonomy', 'Balance', 'Beauty', 'Boldness', 'Compassion', 'Challenge', 'Citizenship', 'Community', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Popularity', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Spirituality', 'Stability', 'Success', 'Status', 'Trustworthiness', 'Wealth', 'Wisdom']
+After:
+['Authenticity', 'Spunk', 'Adventure', 'Authority', 'Autonomy', 'Balance', 'Beauty', 'Boldness', 'Compassion', 'Challenge', 'Citizenship', 'Community', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Popularity', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Spirituality', 'Stability', 'Success', 'Status', 'Trustworthiness', 'Wealth', 'Wisdom']
+Before:
+['Authenticity', 'Achievement', 'Adventure', 'Authority', 'Autonomy', 'Balance', 'Beauty', 'Boldness', 'Compassion', 'Challenge', 'Citizenship', 'Community', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Popularity', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Spirituality', 'Stability', 'Success', 'Status', 'Trustworthiness', 'Wealth', 'Wisdom']
+After:
+['Authenticity', 'Achievement', 'Perseverence', 'Patience', 'Autonomy', 'Balance', 'Beauty', 'Boldness', 'Compassion', 'Challenge', 'Citizenship', 'Community', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Popularity', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Spirituality', 'Stability', 'Success', 'Status', 'Trustworthiness', 'Wealth', 'Wisdom']
+Starting length: 56
+['Authenticity', 'Achievement', 'Patience', 'Perseverence', 'Adventure', 'Authority', 'Autonomy', 'Balance', 'Beauty', 'Boldness', 'Compassion', 'Challenge', 'Citizenship', 'Community', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Popularity', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Spirituality', 'Stability', 'Success', 'Status', 'Trustworthiness', 'Wealth', 'Wisdom']
+Ending length: 58
+Starting length: 56
+['Authenticity', 'Achievement', 'Adventure', 'Authority', 'Autonomy', 'Balance', 'Beauty', 'Boldness', 'Compassion', 'Challenge', 'Citizenship', 'Community', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Popularity', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Spirituality', 'Stability', 'Success', 'Status', 'Trustworthiness', 'Wealth', 'Wisdom', 'Perseverence', 'Patience']
+Ending length: 58
+['a', 'b', 'c', 1, 2, 3]
+['a', 'b', 'c', 1, 2, 3]
+['Perseverence', 'Patience']
+['Debugging', 'Problem-solving']
+Look, it's a list <class 'list'>
+[10, 11, 12, 13, 14, 15]
+[20, 22, 24, 26, 28, 30]
+anatomboulian@MacBook-Pro lesson3A_april6_2023 % python3 changing_lists.py
+Hello world!
+Before:
+['Authenticity', 'Achievement', 'Adventure', 'Authority', 'Autonomy', 'Balance', 'Beauty', 'Boldness', 'Compassion', 'Challenge', 'Citizenship', 'Community', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Popularity', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Spirituality', 'Stability', 'Success', 'Status', 'Trustworthiness', 'Wealth', 'Wisdom']
+After:
+['Authenticity', 'Spunk', 'Adventure', 'Authority', 'Autonomy', 'Balance', 'Beauty', 'Boldness', 'Compassion', 'Challenge', 'Citizenship', 'Community', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Popularity', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Spirituality', 'Stability', 'Success', 'Status', 'Trustworthiness', 'Wealth', 'Wisdom']
+Before:
+['Authenticity', 'Achievement', 'Adventure', 'Authority', 'Autonomy', 'Balance', 'Beauty', 'Boldness', 'Compassion', 'Challenge', 'Citizenship', 'Community', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Popularity', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Spirituality', 'Stability', 'Success', 'Status', 'Trustworthiness', 'Wealth', 'Wisdom']
+After:
+['Authenticity', 'Achievement', 'Perseverence', 'Patience', 'Autonomy', 'Balance', 'Beauty', 'Boldness', 'Compassion', 'Challenge', 'Citizenship', 'Community', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Popularity', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Spirituality', 'Stability', 'Success', 'Status', 'Trustworthiness', 'Wealth', 'Wisdom']
+Starting length: 56
+['Authenticity', 'Achievement', 'Patience', 'Perseverence', 'Adventure', 'Authority', 'Autonomy', 'Balance', 'Beauty', 'Boldness', 'Compassion', 'Challenge', 'Citizenship', 'Community', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Popularity', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Spirituality', 'Stability', 'Success', 'Status', 'Trustworthiness', 'Wealth', 'Wisdom']
+Ending length: 58
+Starting length: 56
+['Authenticity', 'Achievement', 'Adventure', 'Authority', 'Autonomy', 'Balance', 'Beauty', 'Boldness', 'Compassion', 'Challenge', 'Citizenship', 'Community', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Popularity', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Spirituality', 'Stability', 'Success', 'Status', 'Trustworthiness', 'Wealth', 'Wisdom', 'Perseverence', 'Patience']
+Ending length: 58
+['a', 'b', 'c', 1, 2, 3]
+['a', 'b', 'c', 1, 2, 3]
+['Perseverence', 'Patience']
+['Debugging', 'Problem-solving']
+Look, it's a list <class 'list'>
+[10, 11, 12, 13, 14, 15]
+[20, 22, 24, 26, 28, 30]
+anatomboulian@MacBook-Pro lesson3A_april6_2023 %
