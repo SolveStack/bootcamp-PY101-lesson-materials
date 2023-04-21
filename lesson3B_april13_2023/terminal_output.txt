@@ -1,0 +1,57 @@
+Last login: Thu Apr 13 17:28:12 on ttys003
+anatomboulian@MacBook-Pro ~ % cd git/bootcamp-PY101-lesson-materials
+anatomboulian@MacBook-Pro bootcamp-PY101-lesson-materials % cd lesson3B_april13_2023
+anatomboulian@MacBook-Pro lesson3B_april13_2023 % ls -al
+total 8
+drwxr-xr-x   3 anatomboulian  staff   96 Apr 13 17:47 .
+drwxr-xr-x  13 anatomboulian  staff  416 Apr 13 17:47 ..
+-rw-r--r--   1 anatomboulian  staff   21 Apr 13 17:47 sorting_lists.py
+anatomboulian@MacBook-Pro lesson3B_april13_2023 % pwd
+/Users/anatomboulian/git/bootcamp-PY101-lesson-materials/lesson3B_april13_2023
+anatomboulian@MacBook-Pro lesson3B_april13_2023 % python sorting_lists.py
+hello world!
+anatomboulian@MacBook-Pro lesson3B_april13_2023 % python sorting_lists.py
+hello world!
+anatomboulian@MacBook-Pro lesson3B_april13_2023 % python sorting_lists.py
+hello world!      BOO!
+anatomboulian@MacBook-Pro lesson3B_april13_2023 % python sorting_lists.py
+['Achievement', 'Adventure', 'Authenticity', 'Authority', 'Autonomy', 'Balance', 'Beauty', 'Boldness', 'Challenge', 'Citizenship', 'Community', 'Compassion', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Debugging', 'Debugging', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Patience', 'Peace', 'Perseverence', 'Pleasure', 'Poise', 'Popularity', 'Problem-solving', 'Problem-solving', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Spirituality', 'Stability', 'Status', 'Success', 'Trustworthiness', 'Wealth', 'Wisdom']
+anatomboulian@MacBook-Pro lesson3B_april13_2023 % python sorting_lists.py
+['Achievement', 'Adventure', 'Authenticity', 'Authority', 'Autonomy', 'Balance', 'Beauty', 'Boldness', 'Challenge', 'Citizenship', 'Community', 'Compassion', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Debugging', 'Debugging', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Patience', 'Peace', 'Perseverence', 'Pleasure', 'Poise', 'Popularity', 'Problem-solving', 'Problem-solving', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Spirituality', 'Stability', 'Status', 'Success', 'Trustworthiness', 'Wealth', 'Wisdom']
+['Wisdom', 'Wealth', 'Trustworthiness', 'Success', 'Status', 'Stability', 'Spirituality', 'Service', 'Self-Respect', 'Security', 'Responsibility', 'Respect', 'Reputation', 'Recognition', 'Problem-solving', 'Problem-solving', 'Popularity', 'Poise', 'Pleasure', 'Perseverence', 'Peace', 'Patience', 'Optimism', 'Openness', 'Meaningful Work', 'Loyalty', 'Love', 'Learning', 'Leadership', 'Knowledge', 'Kindness', 'Justice', 'Inner Harmony', 'Influence', 'Humor', 'Honesty', 'Happiness', 'Growth', 'Fun', 'Friendships', 'Fame', 'Faith', 'Fairness', 'Determination', 'Debugging', 'Debugging', 'Curiosity', 'Creativity', 'Contribution', 'Competency', 'Compassion', 'Community', 'Citizenship', 'Challenge', 'Boldness', 'Beauty', 'Balance', 'Autonomy', 'Authority', 'Authenticity', 'Adventure', 'Achievement']
+anatomboulian@MacBook-Pro lesson3B_april13_2023 % python sorting_lists.py
+['Wisdom', 'Wealth', 'Trustworthiness', 'Success', 'Status', 'Stability', 'Spirituality', 'Service', 'Self-Respect', 'Security', 'Responsibility', 'Respect', 'Reputation', 'Recognition', 'Problem-solving', 'Problem-solving', 'Popularity', 'Poise', 'Pleasure', 'Perseverence', 'Peace', 'Patience', 'Optimism', 'Openness', 'Meaningful Work', 'Loyalty', 'Love', 'Learning', 'Leadership', 'Knowledge', 'Kindness', 'Justice', 'Inner Harmony', 'Influence', 'Humor', 'Honesty', 'Happiness', 'Growth', 'Fun', 'Friendships', 'Fame', 'Faith', 'Fairness', 'Determination', 'Debugging', 'Debugging', 'Curiosity', 'Creativity', 'Contribution', 'Competency', 'Compassion', 'Community', 'Citizenship', 'Challenge', 'Boldness', 'Beauty', 'Balance', 'Autonomy', 'Authority', 'Authenticity', 'Adventure', 'Achievement']
+[23, 50, 65, 82, 100]
+anatomboulian@MacBook-Pro lesson3B_april13_2023 % python sorting_lists.py
+[23, 50, 65, 82, 100]
+anatomboulian@MacBook-Pro lesson3B_april13_2023 % python sorting_lists.py
+[100, 82, 65, 50, 23]
+anatomboulian@MacBook-Pro lesson3B_april13_2023 % python sorting_lists.py
+[100, 82, 65, 50, 23]
+foo
+anatomboulian@MacBook-Pro lesson3B_april13_2023 % python sorting_lists.py
+['achievement', 'Adventure', 'Authenticity', 'Authority', 'Autonomy', 'balance', 'Beauty', 'Boldness', 'challenge', 'Citizenship', 'Community', 'Compassion', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Debugging', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Popularity', 'Problem-solving', 'Recognition', 'Religion', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Stability', 'Status', 'Success', 'Trustworthiness', 'Wealth', 'Wisdom']
+anatomboulian@MacBook-Pro lesson3B_april13_2023 % python sorting_lists.py
+['achievement', 'Adventure', 'Authenticity', 'Authority', 'Autonomy', 'balance', 'Beauty', 'Boldness', 'challenge', 'Citizenship', 'Community', 'Compassion', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Debugging', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Popularity', 'Problem-solving', 'Recognition', 'Religion', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Stability', 'Status', 'Success', 'Trustworthiness', 'Wealth', 'Wisdom']
+anatomboulian@MacBook-Pro lesson3B_april13_2023 % python sorting_lists.py
+[3, -8, 51, 63, -29, 5]
+[3, -8, 51, 63, -29, 5]
+anatomboulian@MacBook-Pro lesson3B_april13_2023 % python sorting_lists.py
+[3, -8, 51, 63, -29, 5]
+[3, -8, 51, 63, -29, 5]
+4304352768
+4304352768
+anatomboulian@MacBook-Pro lesson3B_april13_2023 % python sorting_lists.py
+4300142656
+4300478208
+anatomboulian@MacBook-Pro lesson3B_april13_2023 % python sorting_lists.py
+4300388416
+4300723968
+[3, -8, 51, 63, -29]
+[3, -8, 51, 63, -29, 5]
+anatomboulian@MacBook-Pro lesson3B_april13_2023 % python sorting_lists.py
+4313151552
+4313486976
+[3, -8, 51, 63, -29]
+[3, -8, 51, 63, -29, 5]
+anatomboulian@MacBook-Pro lesson3B_april13_2023 %
