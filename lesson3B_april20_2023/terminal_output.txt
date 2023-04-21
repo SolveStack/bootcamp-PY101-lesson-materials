@@ -1,0 +1,366 @@
+Last login: Thu Apr 20 12:30:45 on ttys005
+anatomboulian@MacBook-Pro ~ % cd git/bootcamp-PY101-lesson-materials/lesson3B_april20_2023
+anatomboulian@MacBook-Pro lesson3B_april20_2023 % python lists.py
+['achievement', 'Adventure', 'Authenticity', 'Authority', 'Autonomy', 'balance', 'Beauty', 'Boldness', 'challenge', 'Citizenship', 'Community', 'Compassion', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Debugging', 'Determination', 'Fairness', 'Faith', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Popularity', 'Problem-solving', 'Recognition', 'Religion', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Stability', 'Status', 'Success', 'Trustworthiness', 'Wealth', 'Wisdom']
+anatomboulian@MacBook-Pro lesson3B_april20_2023 %
+anatomboulian@MacBook-Pro lesson3B_april20_2023 % python lists.py
+achievement
+Adventure
+Authenticity
+Authority
+Autonomy
+balance
+Beauty
+Boldness
+challenge
+Citizenship
+Community
+Compassion
+Competency
+Contribution
+Creativity
+Curiosity
+Debugging
+Determination
+Fairness
+Faith
+Fame
+Friendships
+Fun
+Growth
+Happiness
+Honesty
+Humor
+Influence
+Inner Harmony
+Justice
+Kindness
+Knowledge
+Leadership
+Learning
+Love
+Loyalty
+Meaningful Work
+Openness
+Optimism
+Peace
+Pleasure
+Poise
+Popularity
+Problem-solving
+Recognition
+Religion
+Reputation
+Respect
+Responsibility
+Security
+Self-Respect
+Service
+Stability
+Status
+Success
+Trustworthiness
+Wealth
+Wisdom
+anatomboulian@MacBook-Pro lesson3B_april20_2023 % python lists.py
+achievement
+Adventure
+Authenticity
+Authority
+Autonomy
+balance
+Beauty
+Boldness
+challenge
+Citizenship
+Community
+Compassion
+Competency
+Contribution
+Creativity
+Curiosity
+Debugging
+Determination
+Fairness
+Faith
+Fame
+Friendships
+Fun
+Growth
+Happiness
+Honesty
+Humor
+Influence
+Inner Harmony
+Justice
+Kindness
+Knowledge
+Leadership
+Learning
+Love
+Loyalty
+Meaningful Work
+Openness
+Optimism
+Peace
+Pleasure
+Poise
+Popularity
+Problem-solving
+Recognition
+Religion
+Reputation
+Respect
+Responsibility
+Security
+Self-Respect
+Service
+Stability
+Status
+Success
+Trustworthiness
+Wealth
+Wisdom
+Starting length: 58
+Ending length: 53
+anatomboulian@MacBook-Pro lesson3B_april20_2023 % python lists.py
+Starting length: 58
+Ending length: 53
+achievement
+Adventure
+Authenticity
+Authority
+Autonomy
+balance
+Beauty
+Boldness
+challenge
+Citizenship
+Community
+Compassion
+Competency
+Contribution
+Creativity
+Curiosity
+Debugging
+Determination
+Fairness
+Fame
+Friendships
+Fun
+Growth
+Happiness
+Honesty
+Humor
+Influence
+Inner Harmony
+Justice
+Kindness
+Knowledge
+Leadership
+Learning
+Love
+Loyalty
+Meaningful Work
+Openness
+Optimism
+Peace
+Pleasure
+Poise
+Problem-solving
+Recognition
+Reputation
+Respect
+Responsibility
+Security
+Self-Respect
+Service
+Stability
+Success
+Trustworthiness
+Wisdom
+anatomboulian@MacBook-Pro lesson3B_april20_2023 % python lists.py
+Starting length: 58
+Ending length: 53
+return value from .remove: None
+anatomboulian@MacBook-Pro lesson3B_april20_2023 % python lists.py
+Starting length: 58
+Ending length: 53
+return value from .remove: None - it's None.
+Starting length: 53
+Last value:
+['Wisdom']
+anatomboulian@MacBook-Pro lesson3B_april20_2023 % python lists.py
+Starting length: 58
+Ending length: 53
+return value from .remove: None - it's None.
+Starting length: 53
+Last value:
+['Wisdom']
+We got Wisdom!
+Last value:
+['Trustworthiness']
+Ending length: 52
+anatomboulian@MacBook-Pro lesson3B_april20_2023 % python lists.py
+Starting length: 58
+Ending length: 53
+return value from .remove: None - it's None.
+Starting length: 53
+Last value:
+['Wisdom']
+We got Wisdom!
+Last value:
+['Trustworthiness']
+Ending length: 52
+Last value:
+['Wisdom']
+Ending length: 53
+anatomboulian@MacBook-Pro lesson3B_april20_2023 % python lists.py
+Starting length: 58
+Ending length: 53
+return value from .remove: None - it's None.
+Starting length: 53
+Last value:
+['Wisdom']
+We got Wisdom!
+Last value:
+['Trustworthiness']
+Ending length: 52
+Last value:
+['Wisdom']
+Ending length: 53
+Starting length: 53
+Authenticity
+anatomboulian@MacBook-Pro lesson3B_april20_2023 % python lists.py
+Starting length: 58
+Ending length: 53
+return value from .remove: None - it's None.
+Starting length: 53
+Last value:
+['Wisdom']
+We got Wisdom!
+Last value:
+['Trustworthiness']
+Ending length: 52
+Last value:
+['Wisdom']
+Ending length: 53
+Starting length: 53
+Authenticity
+Authenticity
+Ending length: 52
+anatomboulian@MacBook-Pro lesson3B_april20_2023 % python lists.py
+Starting length: 58
+Ending length: 53
+return value from .remove: None - it's None.
+Starting length: 53
+Last value:
+['Wisdom']
+We got Wisdom!
+Last value:
+['Trustworthiness']
+Ending length: 52
+Last value:
+['Wisdom']
+Ending length: 53
+Starting length: 53
+Authenticity
+Authenticity
+Ending length: 52
+['achievement', 'Adventure', 'Authority', 'Autonomy', 'balance', 'Beauty', 'Boldness', 'challenge', 'Citizenship', 'Community', 'Compassion', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Debugging', 'Determination', 'Fairness', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Problem-solving', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Stability', 'Success', 'Trustworthiness', 'Wisdom']
+['achievement', 'Adventure', 'Authority', 'Autonomy', 'balance', 'Beauty', 'challenge', 'Citizenship', 'Community', 'Compassion', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Debugging', 'Determination', 'Fairness', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Problem-solving', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Stability', 'Success', 'Trustworthiness', 'Wisdom']
+anatomboulian@MacBook-Pro lesson3B_april20_2023 % python lists.py
+Starting length: 58
+Ending length: 53
+return value from .remove: None - it's None.
+['achievement', 'Adventure', 'Authenticity', 'Authority', 'Autonomy', 'balance', 'Beauty', 'Boldness', 'challenge', 'Citizenship', 'Community', 'Compassion', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Debugging', 'Determination', 'Fairness', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Problem-solving', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Stability', 'Success', 'Trustworthiness', 'Wisdom']
+['achievement', 'Adventure', 'Authenticity', 'Authority', 'Autonomy', 'balance', 'Boldness', 'challenge', 'Citizenship', 'Community', 'Compassion', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Debugging', 'Determination', 'Fairness', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Problem-solving', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Stability', 'Success', 'Trustworthiness', 'Wisdom']
+anatomboulian@MacBook-Pro lesson3B_april20_2023 % python lists.py
+Starting length: 58
+Ending length: 53
+return value from .remove: None - it's None.
+['achievement', 'Adventure', 'Authenticity', 'Authority', 'Autonomy', 'balance', 'Beauty', 'Boldness', 'challenge', 'Citizenship', 'Community', 'Compassion', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Debugging', 'Determination', 'Fairness', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Problem-solving', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Stability', 'Success', 'Trustworthiness', 'Wisdom']
+['achievement', 'Adventure', 'Authenticity', 'Authority', 'Autonomy', 'balance', 'Boldness', 'challenge', 'Citizenship', 'Community', 'Compassion', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Debugging', 'Determination', 'Fairness', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Problem-solving', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Stability', 'Success', 'Trustworthiness', 'Wisdom']
+[]
+anatomboulian@MacBook-Pro lesson3B_april20_2023 % python lists.py
+Starting length: 58
+Ending length: 53
+return value from .remove: None - it's None.
+['achievement', 'Adventure', 'Authenticity', 'Authority', 'Autonomy', 'balance', 'Beauty', 'Boldness', 'challenge', 'Citizenship', 'Community', 'Compassion', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Debugging', 'Determination', 'Fairness', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Problem-solving', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Stability', 'Success', 'Trustworthiness', 'Wisdom']
+['achievement', 'Adventure', 'Authenticity', 'Authority', 'Autonomy', 'balance', 'Boldness', 'challenge', 'Citizenship', 'Community', 'Compassion', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Debugging', 'Determination', 'Fairness', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Problem-solving', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Stability', 'Success', 'Trustworthiness', 'Wisdom']
+[]
+junior_hire_values is no longer a thing
+anatomboulian@MacBook-Pro lesson3B_april20_2023 % python lists.py
+Starting length: 58
+Ending length: 53
+return value from .remove: None - it's None.
+['achievement', 'Adventure', 'Authenticity', 'Authority', 'Autonomy', 'balance', 'Beauty', 'Boldness', 'challenge', 'Citizenship', 'Community', 'Compassion', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Debugging', 'Determination', 'Fairness', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Problem-solving', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Stability', 'Success', 'Trustworthiness', 'Wisdom']
+['achievement', 'Adventure', 'Authenticity', 'Authority', 'Autonomy', 'balance', 'Boldness', 'challenge', 'Citizenship', 'Community', 'Compassion', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Debugging', 'Determination', 'Fairness', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Problem-solving', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Stability', 'Success', 'Trustworthiness', 'Wisdom']
+[]
+Traceback (most recent call last):
+  File "/Users/anatomboulian/git/bootcamp-PY101-lesson-materials/lesson3B_april20_2023/lists.py", line 55, in <module>
+    print(junior_hire_values)
+NameError: name 'junior_hire_values' is not defined. Did you mean: 'best_hire_values'?
+anatomboulian@MacBook-Pro lesson3B_april20_2023 % python lists.py
+Starting length: 58
+Ending length: 53
+return value from .remove: None - it's None.
+['achievement', 'Adventure', 'Authenticity', 'Authority', 'Autonomy', 'balance', 'Beauty', 'Boldness', 'challenge', 'Citizenship', 'Community', 'Compassion', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Debugging', 'Determination', 'Fairness', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Problem-solving', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Stability', 'Success', 'Trustworthiness', 'Wisdom']
+['achievement', 'Adventure', 'Authenticity', 'Authority', 'Autonomy', 'balance', 'Boldness', 'challenge', 'Citizenship', 'Community', 'Compassion', 'Competency', 'Contribution', 'Creativity', 'Curiosity', 'Debugging', 'Determination', 'Fairness', 'Fame', 'Friendships', 'Fun', 'Growth', 'Happiness', 'Honesty', 'Humor', 'Influence', 'Inner Harmony', 'Justice', 'Kindness', 'Knowledge', 'Leadership', 'Learning', 'Love', 'Loyalty', 'Meaningful Work', 'Openness', 'Optimism', 'Peace', 'Pleasure', 'Poise', 'Problem-solving', 'Recognition', 'Reputation', 'Respect', 'Responsibility', 'Security', 'Self-Respect', 'Service', 'Stability', 'Success', 'Trustworthiness', 'Wisdom']
+[]
+junior_hire_values is no longer a thing
+anatomboulian@MacBook-Pro lesson3B_april20_2023 % python functions.py
+500 + 750 = 1250
+anatomboulian@MacBook-Pro lesson3B_april20_2023 % python functions.py
+500 + 750 = 1250
+None
+anatomboulian@MacBook-Pro lesson3B_april20_2023 % python functions.py
+500 + 750 = 1250
+None
+anatomboulian@MacBook-Pro lesson3B_april20_2023 % python functions.py
+500 + 750 = 1250
+None
+Traceback (most recent call last):
+  File "/Users/anatomboulian/git/bootcamp-PY101-lesson-materials/lesson3B_april20_2023/functions.py", line 13, in <module>
+    add_numbers(500, 'foo')
+  File "/Users/anatomboulian/git/bootcamp-PY101-lesson-materials/lesson3B_april20_2023/functions.py", line 2, in add_numbers
+    print(f"{number_1} + {number_2} = {number_1 + number_2}")
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+anatomboulian@MacBook-Pro lesson3B_april20_2023 % python functions.py
+500 + 750 = 1250
+None
+bar + foo = barfoo
+anatomboulian@MacBook-Pro lesson3B_april20_2023 % python functions.py
+500 + 750 = 1250
+None
+My favorite color is blue
+anatomboulian@MacBook-Pro lesson3B_april20_2023 % python functions.py
+500 + 750 = 1250
+None
+Traceback (most recent call last):
+  File "/Users/anatomboulian/git/bootcamp-PY101-lesson-materials/lesson3B_april20_2023/functions.py", line 13, in <module>
+    add_numbers(100)
+TypeError: add_numbers() missing 1 required positional argument: 'number_2'
+anatomboulian@MacBook-Pro lesson3B_april20_2023 % python functions.py
+Tomboulian Ana
+500 + 750 = 1250
+None
+My favorite color is blue
+anatomboulian@MacBook-Pro lesson3B_april20_2023 % python functions.py
+Tomboulian Ana
+500 + 750 = 1250
+None
+My favorite color is blue
+anatomboulian@MacBook-Pro lesson3B_april20_2023 % python functions.py
+Tomboulian Ana
+Ana Tomboulian
+500 + 750 = 1250
+None
+My favorite color is blue
+anatomboulian@MacBook-Pro lesson3B_april20_2023 % python functions.py
+anatomboulian@MacBook-Pro lesson3B_april20_2023 % python functions.py
+My favorite color is red
+anatomboulian@MacBook-Pro lesson3B_april20_2023 % python functions.py
+My favorite color is red
+My favorite color is blue
+anatomboulian@MacBook-Pro lesson3B_april20_2023 %
