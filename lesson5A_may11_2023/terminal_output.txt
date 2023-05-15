@@ -1,0 +1,33 @@
+pyenv shell 3.10.7
+anatomboulian@MacBook-Pro bootcamp-PY101-lesson-materials % pyenv shell 3.10.7
+anatomboulian@MacBook-Pro bootcamp-PY101-lesson-materials % cd lesson5A_may11_2023 
+anatomboulian@MacBook-Pro lesson5A_may11_2023 % python cars.py 
+{'make': '', 'model': '', 'year': 0}
+anatomboulian@MacBook-Pro lesson5A_may11_2023 % python cars.py
+{'make': '', 'model': '', 'year': 0}
+{'make': 'Nissan', 'model': 'Versa', 'year': 2014}
+anatomboulian@MacBook-Pro lesson5A_may11_2023 % python cars.py
+My car before:
+{'make': '', 'model': '', 'year': 0}
+My car after:
+{'make': 'Nissan', 'model': 'Versa', 'year': 2014}
+anatomboulian@MacBook-Pro lesson5A_may11_2023 % python cars.py
+My car before:
+{'make': '', 'model': '', 'year': 0}
+My car after:
+{'make': 'Nissan', 'model': 'Versa', 'year': 2014}
+namespace of this file: __main__
+anatomboulian@MacBook-Pro lesson5A_may11_2023 % python cars.py  
+My car before:
+{'make': '', 'model': '', 'year': 0}
+My car after:
+{'make': 'Nissan', 'model': 'Versa', 'year': 2014}
+namespace of this file: __main__
+anatomboulian@MacBook-Pro lesson5A_may11_2023 % python cars_with_parameters.py
+Mom's new car is a 2023 Range Rover Sport
+anatomboulian@MacBook-Pro lesson5A_may11_2023 % python cars_with_parameters.py
+Mom's new car is a <__main__.Car object at 0x1004d3f40>
+Mom's new car is a 2023 Range Rover Sport
+anatomboulian@MacBook-Pro lesson5A_may11_2023 % python cars_with_parameters.py
+Mom's new car is a 2023 Range Rover Sport
+Mom's new car is a 2023 Range Rover Sport
