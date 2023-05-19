@@ -3,9 +3,14 @@ class Car():
         self.make = make
         self.model = model
         self.year = year
+        return None
 
     def __str__(self):
         return f"{self.year} {self.make} {self.model}"
+    
+    def drive(self):
+        """Placeholder for drive"""
+        pass
 
 mothers_day_car = Car("Range Rover", "Sport", 2023)
 
